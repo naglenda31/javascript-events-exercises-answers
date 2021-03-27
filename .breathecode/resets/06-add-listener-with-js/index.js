@@ -3,9 +3,4 @@ window.onload = function myLoadFunction() {
 	//some code here
 };
 
-let button = document.querySelector("#theGreen").addEventListener("click", myFunction);
-function myFunction() {
-	alert("wujuu");
-}
-
 //the listener function here
